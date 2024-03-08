@@ -1,0 +1,10 @@
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.Form1.resources
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\bin\Debug\lab3.exe.config
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\bin\Debug\lab3.exe
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\bin\Debug\lab3.pdb
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.exe
+D:\ИПМКН\Семестр 6\Имитационное моделирование\lab3\lab3\obj\Debug\lab3.pdb
