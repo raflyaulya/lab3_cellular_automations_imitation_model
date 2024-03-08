@@ -96,7 +96,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(69, 109);
+            this.label1.Location = new System.Drawing.Point(85, 111);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 16);
             this.label1.TabIndex = 1;
@@ -104,9 +104,9 @@
             // 
             // StartButton
             // 
-            this.StartButton.Location = new System.Drawing.Point(115, 180);
+            this.StartButton.Location = new System.Drawing.Point(140, 169);
             this.StartButton.Name = "StartButton";
-            this.StartButton.Size = new System.Drawing.Size(145, 65);
+            this.StartButton.Size = new System.Drawing.Size(145, 50);
             this.StartButton.TabIndex = 2;
             this.StartButton.Text = "START";
             this.StartButton.UseVisualStyleBackColor = true;
@@ -114,9 +114,9 @@
             // 
             // PauseButton
             // 
-            this.PauseButton.Location = new System.Drawing.Point(115, 263);
+            this.PauseButton.Location = new System.Drawing.Point(140, 252);
             this.PauseButton.Name = "PauseButton";
-            this.PauseButton.Size = new System.Drawing.Size(145, 65);
+            this.PauseButton.Size = new System.Drawing.Size(145, 50);
             this.PauseButton.TabIndex = 3;
             this.PauseButton.Text = "PAUSE";
             this.PauseButton.UseVisualStyleBackColor = true;
